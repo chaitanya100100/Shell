@@ -25,6 +25,6 @@ These commands are implemented as a part of shell
 ### System Commands
 - These commands are run as forked process which is served by system(OS)
 
-### Background Foreground
+### Background Processes
 - Commands which have '&' appended, run in background
 - When background process exits, shell display a message with its exit status
